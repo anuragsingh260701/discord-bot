@@ -1,0 +1,7 @@
+- [x] Fix TOKEN loading in bot.py
+- [x] Install discord.py in venv
+- [x] Test the bot by running it (TOKEN loaded, but invalid token)
+- [x] Add error handling for translation in bot.py
+- [x] Install deep-translator and langdetect
+- [x] Update bot.py to use deep-translator instead of googletrans
+- [x] Test translation functionality (cannot test due to invalid token, but code updated)
